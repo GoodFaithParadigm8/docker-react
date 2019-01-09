@@ -2,7 +2,7 @@
 language: minimal 
 
 # User permission
-sudo: required
+# sudo: required
 
 # Travis Services
 services:
