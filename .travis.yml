@@ -1,5 +1,5 @@
 # Language setting
-language: generic 
+language: minimal 
 
 # User permission
 sudo: required
