@@ -6,7 +6,7 @@ WORKDIR '/app'
 
 # Ready dependency install
 COPY package.json ./
- 
+
 # Install dependencies
 RUN npm install
 
@@ -17,7 +17,7 @@ COPY . .
 RUN npm run build
 
 # Prep server build
-FROM ngix
+FROM nginx
 
 # Open Port
 EXPOSE 80 
