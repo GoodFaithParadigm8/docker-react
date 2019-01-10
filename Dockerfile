@@ -19,6 +19,9 @@ RUN npm run build
 # Prep server build
 FROM ngix
 
+# Open Port
+EXPOSE 80 
+
 # Copy build folder
 COPY --from=builder /app/build /usr/share/nginx/html
 
