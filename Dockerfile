@@ -5,7 +5,7 @@ FROM node:alpine as builder
 WORKDIR '/app'
 
 # Ready dependency install
-COPY package.json .
+COPY package.json ./
  
 # Install dependencies
 RUN npm install
