@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![Build Status](https://jasonsprouse.visualstudio.com/Y8/_apis/build/status/Y8-Docker-React%20container-CI?branchName=master)](https://jasonsprouse.visualstudio.com/Y8/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/jasonsprouse/docker-react/_apis/build/status/docker-react-CI?branchName=master)](https://dev.azure.com/jasonsprouse/docker-react/_build/latest?definitionId=12&branchName=master)
 
 ## Available Scripts
 
