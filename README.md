@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![Build Status](https://travis-ci.org/GoodFaithParadigm8/docker-react.svg?branch=master)](https://travis-ci.org/GoodFaithParadigm8/docker-react)
+[![Build Status](https://jasonsprouse.visualstudio.com/Y8/_apis/build/status/Y8-Docker-React%20container-CI?branchName=master)](https://jasonsprouse.visualstudio.com/Y8/_build/latest?definitionId=1&branchName=master)
 
 ## Available Scripts
 
